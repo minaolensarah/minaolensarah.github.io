@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I obtained my Master's in Language Science and Technology from Saarland University in 2024. Before that, I did my Bachelor's in Natural Language Processing at the University of Stuttgart and spent the spring term of 2022 at Bogazici University in Istanbul. 
+I obtained my Master's in Language Science and Technology from [Saarland University](https://www.uni-saarland.de/en/home.html) in 2024 where I also worked as a research intern in the [Computational Linguistics Group](https://www.coli.uni-saarland.de/groups/AK/) led by [Alexander Koller](https://www.coli.uni-saarland.de/~koller/). Before that, I did my Bachelor's in Natural Language Processing at the [University of Stuttgart](https://www.ims.uni-stuttgart.de/en/) and spent the spring term of 2022 at Bogazici University in Istanbul. 
 
 **My full CV:**
 
